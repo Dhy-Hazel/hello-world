@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+The homework is so hard.😭
+hhhh
